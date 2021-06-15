@@ -4,6 +4,7 @@ title: Caroline Kelly
 subtitle: Here are some facts about me 
 gh-repo:
 gh-badge: I have one pet, I can recite the periodic table, and I'm also learning ASL
+tags:true
 
 ---
 
