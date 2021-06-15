@@ -35,7 +35,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: _carolineekellyy
+ instagram: "_carolineekellyy"
 #  spotify: yourname
 
 
@@ -84,7 +84,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png", title: Home
+#navbar-img: "/assets/img/bgimage.png", title: "Home"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
