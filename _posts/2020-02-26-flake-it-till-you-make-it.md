@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Social Medias
-subtitle: Yes, I only have Instagram. I try to stay off of social media
+title: Hi! I'm Caroline Kelly!
+subtitle: As far as social media goes, I only have Instagram. My username is @_carolineekellyy
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
@@ -9,4 +9,4 @@ share-img: /assets/img/path.jpg
 ---
 
 
-That isn't the only fun fact about me! I can also recite the Peridic Table, play ukulele, and I am learning ASL. Nonetheless, my Instagram is @_carolineekellyy
+In my spare time while without social media, I have learned how to recite the Peridic Table, play ukulele, and I am currently learning ASL.
