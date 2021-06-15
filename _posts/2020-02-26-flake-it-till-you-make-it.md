@@ -8,4 +8,5 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
+That isn't the only fun fact about me! I can also recite the Peridic Table, play ukulele, and I am learning ASL.
 instagram: @_carolineekellyy
