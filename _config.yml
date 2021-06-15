@@ -2,11 +2,11 @@
 # --- Required options --- #
 
 # Name of website
-title:"Caroline Kelly"
+title: "Caroline Kelly"
 
 # Your name to show in the footer
-author:"Caroline Kelly"
-
+author: "Caroline Kelly"
+description: "Caroline Kelly"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
