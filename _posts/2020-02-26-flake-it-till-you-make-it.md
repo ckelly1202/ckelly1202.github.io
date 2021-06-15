@@ -9,4 +9,4 @@ share-img: /assets/img/path.jpg
 ---
 
 
-In my spare time while without social media, I have learned how to recite the Peridic Table, play ukulele, and I am currently learning ASL.
+In my spare time while not using social media, I have learned how to recite the Peridic Table, play ukulele, and I am currently learning ASL.
