@@ -6,11 +6,7 @@ title: "Caroline Kelly"
 
 # Your name to show in the footer
 author: "Caroline Kelly"
-description: "Caroline Kelly"
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
+description: "1. I have a pet dog named Penny /n2. I can recite the Periodic Table /n3. I start working again at my summer camp in less than 2 weeks!"
 
 
 
@@ -25,24 +21,13 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ckelly@ebnet.org"
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
  instagram: "_carolineekellyy"
-#  spotify: yourname
 
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
   instagram: true
 
 
