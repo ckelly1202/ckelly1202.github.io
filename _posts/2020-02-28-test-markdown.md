@@ -2,12 +2,12 @@
 layout: post
 title: Caroline Kelly
 subtitle: Here are some facts about me 
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-repo: 
+gh-badge: I have one pet, I can recite the periodic table, and I'm also learning ASL
 comments: true
 ---
 
-I have one pet, can recite the periodic table, and I also am learning ASL
+
 
 **Here is some bold text**
 
